@@ -13,7 +13,7 @@
 | **전화** | 010-9649-5678 |
 | **GitHub** | https://github.com/geonchicshin-rgb |
 | **GitHub 저장소** | https://github.com/geonchicshin-rgb/- |
-| **배포 URL (Netlify)** | 🔲 TODO: 실제 주소로 교체 (예: https://xxx.netlify.app) |
+| **배포 URL (Netlify)** | https://cozy-sprinkles-f5852d.netlify.app |
 | **로컬 실행** | `npm run dev` → http://localhost:3000 |
 | **작업 폴더** | `C:\Users\신건식\Desktop\건식 포트폴리오 사이트` |
 
@@ -128,7 +128,7 @@ git push
 
 ## 다음 세션에서 할 수 있는 것
 
-- [ ] Netlify URL 확인 및 기록
+- [x] Netlify URL 확인 및 기록 → https://cozy-sprinkles-f5852d.netlify.app
 - [ ] [더미] 항목 실제 내용으로 교체
 - [ ] 프로필 사진 추가 (About 또는 Hero 섹션)
 - [ ] 커스텀 도메인 연결 (선택)
